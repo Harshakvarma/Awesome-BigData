@@ -274,6 +274,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [runelm.io](https://runelm.io) - A place to share and run Elm code.
 * [Ellie](https://ellie-app.com/new) - The **El**m **Li**ve **E**ditor
 * [Online REPL](http://elmrepl.cuberoot.in) - The ELM Online REPL
+* [Explore Big Data](https://kandi.openweaver.com/explore/bigdata) - open source software, libraries, packages, source code, cloud functions and APIs. 
+
 
 **[:arrow_up: back to top](#table-of-contents)**
 
